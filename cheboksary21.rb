@@ -2,7 +2,7 @@
 
 set :public_folder, 'public'
 
-class Perm20 < Sinatra::Base
+class Cheboksary21 < Sinatra::Base
   get '/' do
     slim :index, layout: nil
   end

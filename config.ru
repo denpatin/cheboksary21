@@ -1,4 +1,4 @@
 require 'sinatra'
 require 'slim'
-require './perm20'
-run Perm20
+require './cheboksary21'
+run Cheboksary21
